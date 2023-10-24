@@ -1,4 +1,8 @@
 #include "main.h"
+<<<<<<< HEAD
+=======
+
+>>>>>>> aa7b0e1585262394e75c017354ec428c75e1c59e
 /**
  * print_times_table - prints the n times table, starting with 0
  * @n: number of the times table
